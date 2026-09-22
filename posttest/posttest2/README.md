@@ -1,14 +1,10 @@
-# Sistem Manajemen Skuad & Gaji Pemain Manchester United
+# Sistem Manajemen Skuad & Gaji Pemain Manchester United - GGMU
 
 
-**Tema:** Governance Gaji Manchester United
+**Tema:** Governance Gaji Manchester United  
 **Nama:** [Ferly Ahmad Nabil]  
 **NIM:** [2509106024]  
 **Kelas:** [A'25]
-
-Program Python berbasis *Object-Oriented Programming* (OOP) yang mengelola data pemain, kalkulasi gaji bersih setelah pajak dan bonus performa, serta struktur skuad tim Manchester United. 
-
-
 ---
 
 ## 📌 Fitur & Pemenuhan Modul
