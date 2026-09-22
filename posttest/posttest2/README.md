@@ -1,7 +1,7 @@
 # Sistem Manajemen Skuad & Gaji Pemain Manchester United
 
 
-**Tema:** Manajemen Pemain Manchester United  
+**Tema:** Governance Gaji Manchester United
 **Nama:** [Ferly Ahmad Nabil]  
 **NIM:** [2509106024]  
 **Kelas:** [A'25]
