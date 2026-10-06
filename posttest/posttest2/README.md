@@ -1,7 +1,11 @@
-# GGMU — Governance Gaji Manchester United
+# Sistem Manajemen Skuad & Gaji Pemain Manchester United - GGMU
 
-Posttest Pemrograman Berorientasi Objek. Tema ini sudah di-ACC aslab kelas.
-Posttest kali ini fokus pada dua materi: **Relasi UML (Modul 4)** dan **Inheritance (Modul 5)**.
+
+**Tema:** Governance Gaji Manchester United  
+**Nama:** [Ferly Ahmad Nabil]  
+**NIM:** [2509106024]  
+**Kelas:** [A'25]
+---
 
 ## Cara Menjalankan
 
